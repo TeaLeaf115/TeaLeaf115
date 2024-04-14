@@ -12,7 +12,7 @@ I started to learn how to program about 6 years ago, starting with HTML, CSS & J
 * 🔮  Soon I'm hoping to learn React, Assembly and strengthen my Python.
 * 🤝  I am on of the founding members of The RAMHattan Project along with [@mathuransh616](https://github.com/mathuransh616) and [@KevinZhang2135](https://github.com/KevinZhang2135).
 <p align="left">
-<a href="https://github.com/TeaLeaf115" target="_blank" rel="noreferrer"><img src="https://github.com/TeaLeaf115/test/blob/586a16e694b8e9ee7f915938ce4614b23830e3f6/RAMhattanProject_logo_SMALL.svg" width="122" height="122" alt="The RAMHattan Project"/></a>
+<a href="https://github.com/TeaLeaf115" target="_blank" rel="noreferrer"><img src="https://github.com/TeaLeaf115/TeaLeaf115/blob/93f25011c3e218f6a682e54140444995845da4c2/assets/RAMhattanProject_logo_SMALL.svg" width="122" height="122" alt="The RAMHattan Project"/></a>
 </p>
 
 ### Skills
@@ -21,7 +21,7 @@ I started to learn how to program about 6 years ago, starting with HTML, CSS & J
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://en.wikipedia.org/wiki/Brainfuck" target="_blank" rel="noreferrer"><img src="https://github.com/TeaLeaf115/test/blob/3ab2c68ac1d6403fae4f53a2d654bb861a591f6d/BF.svg" width="36" height="36" alt="BrainFuck" /></a>
+<a href="https://en.wikipedia.org/wiki/Brainfuck" target="_blank" rel="noreferrer"><img src="https://github.com/TeaLeaf115/TeaLeaf115/blob/93f25011c3e218f6a682e54140444995845da4c2/assets/BF.svg" width="36" height="36" alt="BrainFuck" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
