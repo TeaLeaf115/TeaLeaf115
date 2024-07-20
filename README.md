@@ -12,7 +12,7 @@ I started to learn how to program about 6 years ago, starting with HTML, CSS & J
 * 🔮  Soon I'm hoping to learn React, Assembly and strengthen my Python.
 * 🤝  I am on of the founding members of The RAMHattan Project along with [@mathuransh616](https://github.com/mathuransh616) and [@KevinZhang2135](https://github.com/KevinZhang2135).
 <p align="left">
-<a href="https://github.com/TeaLeaf115" target="_blank" rel="noreferrer"><img src="https://github.com/TeaLeaf115/TeaLeaf115/blob/93f25011c3e218f6a682e54140444995845da4c2/assets/RAMhattanProject_logo_SMALL.svg" width="122" height="122" alt="The RAMHattan Project"/></a>
+<a href="https://github.com/TeaLeaf115" target="_blank" rel="noreferrer"><img src="https://github.com/TeaLeaf115/TeaLeaf115/blob/93f25011c3e218f6a682e54140444995845da4c2/assets/TheRAMhattanProject.svg" width="122" height="122" alt="The RAMHattan Project"/></a>
 </p>
 
 ### Skills
