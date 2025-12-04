@@ -12,7 +12,7 @@ I started to learn how to program about 8 years ago, starting with HTML, CSS & J
 * 🔮  Soon I'm hoping to learn React, Assembly and strengthen my Python.
 * 🤝  I am on of the founding members of The RAMHattan Project along with [@mathuransh616](https://github.com/mathuransh616) and [@KevinZhang2135](https://github.com/KevinZhang2135).
 <p align="left">
-<a href="https://github.com/TeaLeaf115" target="_blank" rel="noreferrer"><img src="https://github.com/TeaLeaf115/TeaLeaf115/blob/93f25011c3e218f6a682e54140444995845da4c2/assets/TheRAMhattanProject.svg" width="122" height="122" alt="The RAMHattan Project"/></a>
+<a href="https://github.com/TeaLeaf115" target="_blank" rel="noreferrer"><img src="https://github.com/TeaLeaf115/TeaLeaf115/blob/9a9453a60c0a0217bcc580f5ffbbb4f5806241cf/assets/TheRAMhattanProject.svg" width="122" height="122" alt="The RAMHattan Project"/></a>
 </p>
 
 ### Education (2024 - Current)
@@ -31,6 +31,8 @@ I started to learn how to program about 8 years ago, starting with HTML, CSS & J
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=md" width="36" height="36" alt="markdown logo" /></a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=latex" width="36" height="36" alt="latex logo" /></a>
 </p>
 
 
