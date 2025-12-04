@@ -1,19 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TeaLeaf115
 ==================================================================================================================================
 
-Computer Science Student and Outdoor Enthusiast
+Computer Science/Mathematics Student and Outdoor Enthusiast
 ------------------
 
-I started to learn how to program about 6 years ago, starting with HTML, CSS & JS. Then I learned some basic Python, Java, and SQL. I enjoy making fun programs and games. I learned some C++ and C# syntax and GDScript to make games in Godot. Recently I taught myself how to program in BrainF**k as a fun side-project.
+I started to learn how to program about 8 years ago, starting with HTML, CSS & JS. Then I learned some basic Python, Java, and SQL. I enjoy making fun programs and games. I learned some C++ and C# syntax and GDScript to make games in Godot. A few years ago I taught myself how to program in BrainF**k as a fun side-project.
 
 * 🌍  I'm based in the USA.
-* 🚀  Currently I'm working on [Battleship with The RAMHattan Project](http://github.com/TeaLeaf115/GroupBattleshipProject) && [A Text-Based-Imspired Adventure Game](https://github.com/TeaLeaf115/TextBasedAdventureGame).
-* 🧠  Currently I'm learning to get better at Java and Java Swing.
+* 🚀  Currently I'm working on University programming projects.
+* 🧠  Currently I'm learning more about different computer science topics, as well as the mathematics behind them.
 * 🔮  Soon I'm hoping to learn React, Assembly and strengthen my Python.
 * 🤝  I am on of the founding members of The RAMHattan Project along with [@mathuransh616](https://github.com/mathuransh616) and [@KevinZhang2135](https://github.com/KevinZhang2135).
 <p align="left">
 <a href="https://github.com/TeaLeaf115" target="_blank" rel="noreferrer"><img src="https://github.com/TeaLeaf115/TeaLeaf115/blob/93f25011c3e218f6a682e54140444995845da4c2/assets/TheRAMhattanProject.svg" width="122" height="122" alt="The RAMHattan Project"/></a>
 </p>
+
+### Education (2024 - Current)
+* Working on a B.S. in Computer Science
+* Working on a B.S. in Mathematics
 
 ### Skills
 
